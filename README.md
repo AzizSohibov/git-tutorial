@@ -147,5 +147,5 @@ git push -u origin feature/login
 ```
 # 5. Создать Pull Request на GitHub
 ---
-[Вернуться наверх](#)
+
     
