@@ -1,7 +1,7 @@
 ---
 title: Полное руководство по Git
-author: Ваше Имя
-date: 2023-10-15
+author: Aziz Sokhibov (created using DeepSeek AI)
+date: 2025-19-04
 ---
 
 # 🚀 Полное руководство по Git 
@@ -122,4 +122,4 @@ git push -u origin feature/login
 
 # 5. Создать Pull Request на GitHub
 ---
-Скачать PDFDF**: [Git-Guide.pdf](#)
+Вернуться наверх**: [Git-Guide.pdf](#)
